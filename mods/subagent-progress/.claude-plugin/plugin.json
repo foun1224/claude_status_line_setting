@@ -1,0 +1,6 @@
+{
+  "name": "subagent-progress",
+  "version": "0.1.0",
+  "description": "Live subagent progress band above the prompt: state, task, tool calls, current action, elapsed time",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "quiet-footer",
+  "version": "0.1.0",
+  "description": "Hides the '(shift+tab to cycle)' notice from the hint line under the prompt"
+}
